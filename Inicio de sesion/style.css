@@ -1,0 +1,45 @@
+*{
+    font-family: "roboto"
+
+}
+#login-box .form .item input {
+    width: 200px; 
+    border: 0;
+    border-bottom: 5px solid white; 
+    font-size: 18px; 
+    background: #ffffff00;
+    color: white;
+    padding: 5px 10px;
+}
+
+#login-box {
+    border: 1px solid blue;
+    width: 30%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 15%;
+    background: #00000080;
+    padding: 20px 50px;
+}
+
+#login-box {
+
+    color: white;
+}
+
+.username {
+    
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.pasword{
+
+    
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+
+
